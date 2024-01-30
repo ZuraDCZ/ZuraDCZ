@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Diego Calderón Zurita</h1>
 <h3 align="center">Im a game programmer of Mexico</h3>
+<img align="right" alt="coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuradcz&label=Profile%20views&color=0e75b6&style=flat" alt="zuradcz" /> </p>
 
